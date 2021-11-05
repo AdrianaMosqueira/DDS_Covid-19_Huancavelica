@@ -1,0 +1,37 @@
+---
+title: "Prueba_1"
+author: "Adriana Mo"
+date: "11/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div style="text-align: justify">
+
+Como respuesta a estos desafíos el estudio propone:  
+
+1. Desarrollar con urgencia un nuevo plan estratégico nacional para la reducción de la mortalidad materna, con las siguientes características:  
+    * Involucrar y comprometer a principales actores clave del sector salud y otros sectores.
+    * Designar la rectoría a una dependencia específica del Estado.
+    * Considerar las acciones a implementar en base al diagnóstico situacional actual y evolutivo de la mortalidad materna total y por causas específicas, no solo a nivel nacional, sino también por departamentos y ámbitos y por perfil de edades.
+    * Priorizar intervenciones basadas en evidencia robusta y escalables.
+    * Considerar acciones para mejorar la cobertura y calidad de las intervenciones (por ejemplo, construir carreteras, fortalecer los servicios de atención remota o adquirir medios de transporte aéreos para facilitar la atención y la referencia en áreas rurales dispersas).
+2. Realizar una actualización integral del Programa Presupuestal 002 Salud Materno Neonatal, que considere los siguientes puntos críticos:
+    * Actualizar el diagnóstico con diferenciación por departamentos y ámbitos geográficos.
+    * Renovar la evidencia científica respecto a intervenciones dirigidas a reducir la mortalidad materna.
+    * Reestructurar los productos y actividades presupuestales para que se alineen con la priorización de intervenciones basadas en evidencia.
+    * Elaborar reglas de asignación presupuestal que consideren el nivel de evidencia y efectividad de las intervenciones, la prevalencia de causas específicas de muerte materna, el desempeño en función de los indicadores de cobertura de las intervenciones específicas.
+3. Crear una red nacional de establecimientos FON, que incluya una selección de establecimientos de salud a nivel nacional y la asignación de los niveles FON en función de la distancia a la población y la capacidad resolutiva actual de los establecimientos, y con énfasis en el fortalecimiento de las capacidades de los FON-E y los FON-I.
+4. Diseñar un tablero de control que permita el monitoreo de la cobertura de intervenciones clave y de la disponibilidad de insumos críticos para su realización. Otro aspecto por considerar es el fortalecimiento de la vigilancia de la morbilidad materna extrema, cuyo protocolo fue publicado en el primer semestre del 2021^[https://www.dge.gob.pe/epipublic/uploads/normas/normas_20215.pdf]. Habida cuenta de su rol en la prevención de la muerte materna, esta vigilancia contribuirá a identificar necesidades de personal, de capacitación y equipamiento, incluyendo el establecimiento de la red nacional de UCI obstétricas, así como el de transporte en ambulancias (aéreas y terrestres), como parte de la red de referencia y contrarreferencia. Esta expansión de servicios debe considerar también el equipamiento, capacitación y registro de las atenciones remotas.
+5. Fortalecer el sistema de referencias, principalmente a nivel de los establecimientos FON-B.
+
+## 2. Situación de la planificación familiar
+
+A pesar de los incrementos en el uso de métodos anticonceptivos desde 2000, las fallas en la implementación de un servicio de planificación familiar adecuado es aún preocupante. Solo 35% de las mujeres en edad fértil (MEF) utilizan métodos anticonceptivos modernos, cifra que se ha mantenido sin cambios significativos en los últimos años, y el embarazo adolescente continúa siendo un problema de salud pública, con un 12.6% de adolescentes (en el periodo 2017-2018) que ya han experimentado un embarazo^[ MINSA (2020). Plan Estratégico Institucional - PEI 2019 - 2023 ampliado del MINSA. https://cdn.www.gob.pe/uploads/document/file/1199035/resolucion-ministerial-n-546-2020-minsa.pdf].
+
+Durante las últimas décadas se ha incrementado el uso de métodos anticonceptivos y se han reducido considerablemente las diferencias de cobertura de estos métodos por ámbito rural y urbano. En el año 2000 el 68.9% de las mujeres actualmente unidas utilizaban algún método anticonceptivo, en comparación con un 75.9% en 2019, y la brecha en el uso de métodos anticonceptivos entre zonas urbanas y rurales se cerró, luego de haber sido de 12 p.p. al inicio de ese periodo. Mientras tanto, el porcentaje de mujeres en unión con demanda insatisfecha de planificación familiar^[El INEI calcula la demanda insatisfecha de planificación familiar considerando a las mujeres que no pertenezcan a los siguientes grupos: (i) mujeres que no están actualmente en unión, (ii) mujeres que están practicando la planificación familiar, (iii) mujeres actualmente embarazadas o amenorréicas que estaban empleando alguna forma de anticoncepción cuando quedaron embarazadas, (iv) mujeres actualmente embarazadas o amenorréicas cuyo último embarazo fue deseado, (v) mujeres infértiles, es decir, aquellas sin hijos nacidos vivos en los últimos cinco años, a pesar de haber estado en unión y no haber usado la anticoncepción, y mujeres fértiles que desean un hijo en los próximos dos años] se redujo de 8.6% en 2014 a 6.1% en 2019, y la brecha urbana-rural también se diluyó.
+
+<div/>
