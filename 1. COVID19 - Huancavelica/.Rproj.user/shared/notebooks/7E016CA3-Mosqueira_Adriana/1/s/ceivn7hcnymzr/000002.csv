@@ -1,0 +1,4 @@
+"0","Tasa_vacunados=Huancavelica_vacunas %>%"
+"0","  group_by(añomes) %>%"
+"0","  summarise(Vacunas_mes = n()/358400)"
+"0","Tasa_vacunados"

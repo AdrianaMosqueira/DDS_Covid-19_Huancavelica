@@ -1,0 +1,4 @@
+"0","Tasa_contagio=Huancavelica_positivos %>%"
+"0","  group_by(añomes) %>%"
+"0","  summarise(Casos_nuevos_mes = n()/358400)"
+"0","Tasa_contagio"

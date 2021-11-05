@@ -1,0 +1,57 @@
+---
+title: "HUANCAVELICA"
+author: "Adriana Mo"
+date: "10/27/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+rm(list=ls())
+```
+
+```{r}
+setwd("C:/Users/Hp/OneDrive/2021/15. Diplomado/3. R para la Gestión Pública/Ejercicio práctico 1/Ejercicio 1")
+```
+
+## Diagnóstico sobre el avance del contagio del COVID-19, la mortalidad y la vacunación en Huancavelica
+
+```{r}
+library(rio)
+Vacunas_covid=import("vacunas_covid.csv")
+```
+```{r}
+Positivos_covid=import("positivos_covid-14.csv")
+```
+
+```{r}
+Fallecidos_covid=import("fallecidos_covid-14.csv")
+```
+
+
+Seleccionar filas o columas de la base de datos
+
+```{r}
+table(Vacunas_covid$DEPARTAMENTO)
+```
+
+```{r}
+###table(Vacunas_covid$Departamento)
+Huancavelica=filter(Vacunas_covid,Departamento=="HUANCAVELICA")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

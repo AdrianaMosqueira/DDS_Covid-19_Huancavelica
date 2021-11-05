@@ -1,0 +1,4 @@
+"0","Tasa_fallecidos=Huancavelica_fallecidos %>%"
+"0","  group_by(añomes) %>%"
+"0","  summarise(Fallecidos_mes = n()/358400)"
+"0","Tasa_fallecidos"

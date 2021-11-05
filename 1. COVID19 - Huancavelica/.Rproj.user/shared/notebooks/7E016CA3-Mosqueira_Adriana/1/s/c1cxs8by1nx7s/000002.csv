@@ -1,0 +1,5 @@
+"0","Huancavelica_fallecidos$FECHA_FALLECIMIENTO=as.character(Huancavelica_fallecidos$FECHA_FALLECIMIENTO)"
+"0","Huancavelica_fallecidos$FECHA_FALLECIMIENTO=as.Date(Huancavelica_fallecidos$FECHA_FALLECIMIENTO,""%Y%m%d"")"
+"0","#Huancavelica_positivos$año=year(Huancavelica_positivos$FECHA_RESULTADO) # puedo extraer el año"
+"0","#Huancavelica_positivos$mes=month(Huancavelica_positivos$FECHA_RESULTADO) # puedo extraer el mes"
+"0","Huancavelica_fallecidos$añomes<- as.factor(format(Huancavelica_fallecidos$FECHA_FALLECIMIENTO,'%Y-%m'))"

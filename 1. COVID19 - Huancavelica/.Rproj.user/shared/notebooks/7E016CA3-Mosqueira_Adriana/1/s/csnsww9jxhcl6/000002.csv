@@ -1,0 +1,4 @@
+"0","library(rio)"
+"0","Letalidad_m=inner_join(Fallecidos_mes,Casos_nuevos,by=""añomes"")"
+"0","library(dplyr)"
+"0","Letalidad_m=mutate(Letalidad_m,Letalidad_mensual=Fallecidos_mes/Casos_nuevos_mes)"

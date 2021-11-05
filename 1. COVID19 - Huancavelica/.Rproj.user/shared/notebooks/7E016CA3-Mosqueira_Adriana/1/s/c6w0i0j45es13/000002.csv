@@ -1,0 +1,4 @@
+"0","Vacunados_mes=Huancavelica_vacunas %>%"
+"0","  group_by(añomes) %>%"
+"0","  summarise(Vacunas_mes = n())"
+"0","Vacunados_mes"

@@ -1,0 +1,3 @@
+"0","Huancavelica_vacunas$FECHA_VACUNACION=as.character(Huancavelica_vacunas$FECHA_VACUNACION)"
+"0","Huancavelica_vacunas$FECHA_VACUNACION=as.Date(Huancavelica_vacunas$FECHA_VACUNACION,""%Y%m%d"")"
+"0","Huancavelica_vacunas$añomes<- as.factor(format(Huancavelica_vacunas$FECHA_VACUNACION,'%Y-%m'))"

@@ -1,0 +1,4 @@
+"0","Casos_nuevos=Huancavelica_positivos %>%"
+"0","  group_by(añomes) %>%"
+"0","  summarise(Casos_nuevos_mes = n())"
+"0","Casos_nuevos"

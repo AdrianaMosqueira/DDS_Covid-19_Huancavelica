@@ -1,0 +1,4 @@
+"0","Fallecidos_mes=Huancavelica_fallecidos %>%"
+"0","  group_by(añomes) %>%"
+"0","  summarise(Fallecidos_mes = n())"
+"0","Fallecidos_mes"

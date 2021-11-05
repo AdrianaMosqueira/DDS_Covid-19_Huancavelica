@@ -1,0 +1,2 @@
+"0","#Para calcular porcentajes "
+"0","Letalidad_m$prob <- round(prop.table(Letalidad_m$Letalidad_mensual), 5)*100"

@@ -1,0 +1,3 @@
+"0","Huancavelica_positivos$FECHA_RESULTADO=as.character(Huancavelica_positivos$FECHA_RESULTADO)"
+"0","Huancavelica_positivos$FECHA_RESULTADO=as.Date(Huancavelica_positivos$FECHA_RESULTADO,""%Y%m%d"")"
+"0","Huancavelica_positivos$añomes<- as.factor(format(Huancavelica_positivos$FECHA_RESULTADO,'%Y-%m'))"
