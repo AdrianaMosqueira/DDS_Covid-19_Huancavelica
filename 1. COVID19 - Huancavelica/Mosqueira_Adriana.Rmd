@@ -116,7 +116,7 @@ table(Vacunados_mes)
 ```
 
 ### **3.2. Calcular tasas: <a name="id5"></a>**
-### *a. Tasa de contagio por mes*
+### *a. Se identificí que la tasa de contagio por mes, es la siguiente*
 
 ```{r}
 Tasa_contagio=Huancavelica_positivos %>%
