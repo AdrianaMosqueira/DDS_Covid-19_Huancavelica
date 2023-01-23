@@ -1,3 +1,3 @@
 # DDS_Covid-19_Huancavelica
 
-The objective of this work is to construct an indicator of perception of insecurity in Metropolitan Lima differentiated by district. 
+The objective of this work is to identify the levels of perception of insecurity regarding property crime in the districts of Metropolitan Lima in 2017, differentiated by district. For this purpose, the National Victimization Survey (ENEVIC) 2017 - Module 300: Citizen Insecurity was used. This project was carried out jointly with my colleague Giovanni Arriola Laura. 
